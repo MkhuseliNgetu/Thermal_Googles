@@ -1,0 +1,6 @@
+factories:  
+  - majorgalvez_ground_zeroes_thermal_googles\ops\my_shirt_factory.csv
+localization:  
+  onscreens:  
+    en-us: 
+      - majorgalvez_ground_zeroes_thermal_googles\ops\translation_strings.json

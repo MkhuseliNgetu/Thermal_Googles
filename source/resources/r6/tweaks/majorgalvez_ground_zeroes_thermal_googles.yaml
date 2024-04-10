@@ -1,0 +1,14 @@
+# Game.AddToInventory("Items.ground_zeroes_googles")
+Items.ground_zeroes_googles:
+  $base: Items.GenericFaceClothing
+  entityName: majorgalvez_ground_zeroes_thermal_googles_factory_name
+  appearanceName: appearance_root_entity_ground_zeroes_version
+  displayName: majorgalvez_ground_zeroes_thermal_googles_localization_name_ground_zeroes_version
+  localizedDescription: majorgalvez_ground_zeroes_thermal_googles_localization_desc
+  quality: Quality.Legendary
+  appearanceSuffixes: []
+  icon:
+    atlasResourcePath: majorgalvez_ground_zeroes_thermal_googles\ops\preview_icons.inkatlas
+    atlasPartName: slot_01
+
+
